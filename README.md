@@ -20,3 +20,7 @@ Now if you put
 in a web browser you will find your page!
 
 The index.html file is located in var/www/html/index.html
+
+Use the index.html, script.js, style.css in the file location above
+
+Now your own to do list is done!
